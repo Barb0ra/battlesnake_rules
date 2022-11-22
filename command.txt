@@ -1,0 +1,1 @@
+./battlesnake play --width 11 --height 11 --name Bayesian --url http://0.0.0.0:8000 --name Baseline --url http://0.0.0.0:8080 -g wrapped -m hz_islands_bridges 
